@@ -1,3 +1,6 @@
+![CI](https://github.com/jhadith/api-validacion-fastapi/actions/workflows/ci.yml/badge.svg)
+
+
 # API Inventario y Ventas – Validación de Software (FastAPI)
 
 Este repositorio contiene una API REST mínima para gestión de inventario y registro de ventas, junto con evidencias de validación mediante pruebas manuales y automatizadas (unitarias e integración), y métricas de cobertura.
