@@ -19,3 +19,5 @@ La cobertura se obtiene con Coverage y se reporta por consola.
 
 ## Evidencias
 Las capturas, logs y checklist de aceptación se encuentran en la ruta docs/evidencias/.
+
+
